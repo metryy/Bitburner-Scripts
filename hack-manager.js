@@ -1,5 +1,5 @@
 /** @param {NS} ns **/
-import { multiscan, gainRootAccess } from "utils.js";
+import { multiscan, gainRootAccess } from "./utils.js";
 
 function maxElement(arr) {
 	let max = 0;
